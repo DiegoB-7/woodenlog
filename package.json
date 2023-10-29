@@ -1,0 +1,29 @@
+{
+  "name": "woodenlong",
+  "version": "1.0.1",
+  "description": "Simple logger with colors",
+  "type": "module",
+  "main": "index",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiegoB-7/woodenlog"
+  },
+  "keywords": [
+    "woodenlog",
+    "log",
+    "logger",
+    "console",
+    "color",
+    "colors"
+  ],
+  "author": "Diego Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-styles": "^6.2.1",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
